@@ -10,8 +10,8 @@ User Story: I can press a button to tweet out a quote.
 
 ## My Solution:
 
-**live:** https://random-quote-machine.netlify.com/
+**live:** [on Netlify](https://random-quote-machine.netlify.com/)
 
 **Screenshot:**
 
-![Random Quote Machine](http://res.cloudinary.com/dftignrf8/image/upload/c_scale,w_600/fl_progressive/v1510623780/personal_portfolio/random-quote-machine.png)
+![Random Quote Machine](./screenshot.png)
